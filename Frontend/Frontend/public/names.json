@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Fehmide Naz",
+    "title": "Senior Advocate Supreme Court",
+    "fee": 0,
+    "category": "Free",
+    "image": "./lawyer5.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr Ammara Farooq Malik",
+    "title": "Advocate Supreme Court",
+    "fee": 0,
+    "category": "Free",
+    "image": "./lawyer4.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mansoor Usman Awan",
+    "title": "Senior Advocate, Former Attorney General",
+    "fee": 8000,
+    "category": "Paid",
+    "image": "./mansoor.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mumtaz Fazal Mirza",
+    "title": "Advocate Supreme Court (Deals in Revenue)",
+    "fee": 20000,
+    "category": "Paid",
+    "image": "./mumtaz.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Shazia Hasan",
+    "title": "Property Law Advocate",
+    "fee": 50000,
+    "category": "Paid",
+    "image": "./lawyer1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mirza Abid Hussain",
+    "title": "Retired Judge, Senior Legal Expert",
+    "fee": 7000,
+    "category": "Paid",
+    "image": "./lawyer6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ali Ahmad",
+    "title": "Barrister",
+    "fee": 10000,
+    "category": "Paid",
+    "image": "./lawyer3.jpg"
+  },
+  {
+    "id": 8,
+    "name": "S. M. Zafar",
+    "title": "Senior Advocate/Legal Expert",
+    "fee": 10000,
+    "category": "Paid",
+    "image": "./lawyer2.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Aitzaz Ahsan",
+    "title": "Senior Advocate Supreme Court",
+    "fee": 0,
+    "category": "Free",
+    "image": "./aitzaz.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Hamid Khan",
+    "title": "Property and Land Law",
+    "fee": 0,
+    "category": "Free",
+    "image": "./Hamid.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Asma Jahangir",
+    "title": "Social Activist, Human Rights Lawyer (Founder of HRCP)",
+    "fee": 0,
+    "category": "Free",
+    "image": "./Asma.jpg"
+  }
+]
